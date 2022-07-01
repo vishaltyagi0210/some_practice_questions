@@ -84,6 +84,7 @@ break;
 
 case 10:
     // 10.write a program to take a thrree digit number from user and rotate its digits by one position towards the right.
+     printf("enter a number");
     scanf("%d",&a);
     int a1 = a>>1;
     printf("%d",a1);  
